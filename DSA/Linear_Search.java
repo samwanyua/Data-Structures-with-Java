@@ -15,5 +15,24 @@ public class Linear_Search {
          * 
          */
 
+         int[] array = {9,1,8,2,7,3,6,4,5};
+
+         int index = LinearSearch(array, 4);
+
+         if(index != -1){
+            System.out.println("Element found at index: " + index);
+         }
+         else{
+            System.out.println("Element not found!");
+         }
+
+    }
+    private static int LinearSearch(int[] array, int value){
+        for(int i =0; i < array.length; i++){
+            if(array[i] == value){
+                return i;
+            }
+        }
+        return -1;
     }
 }
