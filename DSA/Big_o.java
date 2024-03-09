@@ -53,10 +53,6 @@ public class Big_o {
         6. O(n!) = factorial time
             ex. travelling salesman problem
         
-
-
-
-
          */
 
 
