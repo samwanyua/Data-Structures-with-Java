@@ -1,0 +1,25 @@
+DSA & Algorithms
+
+* Data structures is a named location that can be used to store and organize data.
+
+examples: arrays (a collection of elements stored at contiguous memory locations)
+
+* Algorithms - is a collection of steps to solve a problem.
+- steps to a solution
+
+example: Baking a pizza
+    1. Heat oven to 550 Fahrenheit
+    2. Knead the dough
+    3. Add toppings
+
+* Linear search - one by one, you examine the elements of an array to find a value
+
+Why DSA?
+- Writing code that is both time and memory efficient
+
+
+
+
+
+
+
