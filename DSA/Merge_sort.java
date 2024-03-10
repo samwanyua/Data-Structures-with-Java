@@ -1,8 +1,9 @@
 public class Merge_sort {
     /*
-     * Merge sort
+     * Merge sort - recursively divide array in 2, sort and recombine
      * Divide and conquer algorithm
      * Runtime complexity of O(n log n)
+     * space complexity = O(n)
      */
     public static void main(String[] args) {
         int[] array = {8, 2, 5, 3, 4, 7, 6, 1};
