@@ -1,6 +1,12 @@
 public class Quick_sort {
     /*
-     * Quick sort 
+     * Quick sort - moves smaller elements to the left of a pivot
+     * Recursively divide array in 2 partitions
+     * 
+     * Runtime complexity = Best case O(n log(n))
+     *                      Average case O(n log(n))
+     *                      Worst case O(n^2)
+     * Space coplexity = O(log(n)) due to recursion
      * 
      */
     public static void main(String[] args) {
