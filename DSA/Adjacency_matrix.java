@@ -1,4 +1,3 @@
-
 public class Adjacency_matrix {
     /*
      * Adjacency matrix - an array to store 1's and 0's to represent edges
