@@ -1,0 +1,11 @@
+Recursion - a way of solving a problem by having a function call itself
+ex. factorials
+n! = n * (n-1) * (n -2)... 3 * 2 * 1
+if n >= 1
+then n! = n * (n -1)!
+
+4! = 4 * 3 * 2 * 1 = 24
+0! = 1
+
+function fact(n) should return n! 
+
